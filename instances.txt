@@ -1,0 +1,25 @@
+
+Object: orchid
+ Attributes:
+  Type: Orchid
+  Length: 5
+  Has_flowers: true
+  Is_healthy: false
+  Is_outside: true
+ Methods:
+  Grow: length += 1
+  Water: is_healthy = true
+
+
+  Object: lucky_bamboo
+   Attributes:
+    Type: bamboo
+    Length: 12
+    Has_flowers: false
+    Is_healthy: true
+    Is_outside: true
+   Methods:
+    Trim: length -= 1
+    Move: is_outside = false
+
+    
