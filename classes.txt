@@ -1,0 +1,13 @@
+
+Class: Plant
+ Attributes:
+  Type(str)
+  Length(int)
+  Has_flowers(boolean)
+  Is_healthy(boolean)
+  Is_outside(boolean)
+ Methods:
+  Grow: Adds to length
+  Trim: Subtracts from length
+  Water: Changes is_healthy to true
+  Move: Changes is_outside from true to false and vice versa
