@@ -1,0 +1,41 @@
+Doing Laundry
+
+1. Gather clothes off floor
+  1.1 Pick up article of clothing
+    1.1.1 Check to ensure clothing article is actually dirty
+      1.1.1.1 If clothing article is not dirty, put article in dresser
+  1.2 Put article of clothing in laundry basket
+  1.3 Repeat above steps until there are no articles of clothing on the floor
+2. Carry laundry basket to laundry room
+  2.1 Ensure that no articles of clothing fall out of the laundry basket
+    2.1.1 If an article of clothing falls out of the laundry basket, return article to the basket
+3. Place all clothing in the washing machine and start cycle
+  3.1 Take each article of clothing and put it in the washing machine
+    3.1.1 Check any pockets to make sure nothing is in them
+      3.1.1.1 If an item is found in a pocket, put the item aside and continue to place clothing in the washing machine
+  3.2 Allocate detergent and put it in appropriate location
+    3.2.1 Amount of detergent needed depends on the size of the load, and how dirty the clothes are
+    3.2.2 Detergent should be poured into the detergent drawer.
+      3.2.2.1 If the machine does not have a detergent drawer, detergent should be poured directly onto the clothes.
+  3.3 Select mode
+    3.3.1 Normal/casual is appropriate for most loads
+      3.3.1.1 If the load is larger than normal, select bulky/bedding
+      3.3.1.2 If the load is dirtier than normal, select sanitary
+  3.4 Push the start button
+    3.4.1 If an article of clothing is accidentally left out, pause the machine and place the article in the machine as soon as possible, then press start
+  3.5 Wait for cycle to finish
+  3.6 When the cycle is complete, remove all clothing from the machine
+4. Dry clothes
+    4.1 Separate all delicate clothing
+      4.1.1 Hang all delicate clothing on a rack
+    4.2 Clean dryer cache
+      4.2.1 Put all lint from dryer cache in a garbage can
+    4.3 Place all other clothing in dryer
+    4.4 Put a dryer sheet in the dryer
+      4.4.1 If you are concerned about the negative health effects of using dryer sheets, please skip the above step.
+    4.5 Select mode
+      4.5.1 Normal/casual is appropriate for most loads
+        4.5.1.1 If the load is larger than normal, select bulky/bedding
+    4.6 Press start button wait for drying cycle to complete
+      4.6.1 Repeat this step until clothes are completely dry
+5. Remove clothes from the dryer as needed     
